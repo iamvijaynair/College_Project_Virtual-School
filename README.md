@@ -1,3 +1,3 @@
 # College_Project
-
-Developed with Unreal Engine 4
+The purpose of this project was to identify effective strategies for dealing with a game based learning environment, while giving it a new prospective and applying features using existing game development frameworks to compliment the technology without loss of "entertainment factor". Based on the analysis, we can observe the amount at which such experience could improve the learning ability of young students is worth exploring.
+The virtual classroom transcends the boundaries of location, time and space providing a flexible learning environment for all. Schools, universities and corporate organizations benefit form Virtual classrooms because it provides an excellent way for experts to teach a geographically dispersed group of students without hassle.
